@@ -60,7 +60,13 @@ Total:
 2. Ioannis Drosidis, 34 yr. old
 3. Panagiotis Leliopoulos, 29 yr. old
 
+###Description
+The dataset we used is mobile-platforms.json.
+We show the modification in time of mobile devices in three variables (volume, phone share and smart phone share). 
+We did this with a pie chart and with simple line charts.
+
 ###Public link
+http://www.synela.info/hachathon/
 
 ###Score
 * Form:
