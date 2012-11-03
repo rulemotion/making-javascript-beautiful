@@ -24,7 +24,12 @@ A collection of datasets to build upon. Created for the needs of "Making Javascr
 1. Dimitris Tsironis, 20 yr. old
 2. Jim Zarkadas, 19 yr. old
 
+###Description
+We chose the social category dataset and created data visualisations concerning Greece and its population. We thought that the best way to do this was to create an interactive infographic. 
+So we created a vertical years timeline. As you click on it, data and charts change dynamicaly with a smooth transition.
+
 ###Public link
+http://visualisations.isnap.gr
 
 ###Score
 * Form:
@@ -88,8 +93,32 @@ Total:
 2. Kostis Karantias, 17 yr. old
 3. Themis Papameletiou, 17 yr. old
 
+###Description
+Hi!
+This is our entry for the Making Javascript Beautiful contest. Our approach was to use vanilla Javascript, without additional libraries (except for jQuery for window sizing), to create a solution that fully customizes the view of the data. We believe this is the best way to attack the problem, as one can visualize the statistics properly depending on the actual context at hand.
+As this requires extra time to complete properly, our solution is not fully finished at this time, but the basic fundamental functionality is visible and the looks, we believe, are promising.
+
 ###Public link
 http://dionyziz.logimus.com/beautiful/
+
+###Score
+* Form:
+* Function:
+* Interestingness: 
+
+Total:
+
+##6. Team: Sitting on the dinner table
+
+###Members
+1. Yannis Gravezas, 33 yr. old
+2. Stefanos Piitidis, 24 yr. old
+
+###Description
+We implemented a stacked chart using pure webgl. We interpolated the data by filling the holes between months using a moving average algorithm. Dataset selection is done using overlayed html elements and a motion blur effects was added using webgl shaders
+
+###Public link
+http://www.intrael.com/hackathon
 
 ###Score
 * Form:
