@@ -83,6 +83,13 @@ Total:
 3. Fotini Tsakali, 31 yr. old
 4. Nikos Korra, 28 yr. old
 
+###Description
+We created our project using:
+Illustrator CS4 to create the graphics for this project.
+HTML5 CSS3 and Javascript to create the web page.
+The scope of this infographic was to make an interesting, eye-catching and
+vivid web site. We wanted to inform the user in a friendly interface.
+
 ###Public link
 
 ###Score
