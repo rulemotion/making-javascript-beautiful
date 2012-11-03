@@ -18,15 +18,15 @@ A collection of datasets to build upon. Created for the needs of "Making Javascr
 
 # Teams
 
-##1. Team: geembo
+##1. Team: Geembo
 
 ###Members
 1. Dimitris Tsironis, 20 yr. old
 2. Jim Zarkadas, 19 yr. old
 
-###Public link:
+###Public link
 
-###Marks
+###Score
 * Form:
 * Function:
 * Interestingness: 
@@ -39,9 +39,25 @@ Total:
 1. Nikitas Christodoulakis, 16 yr. old
 2. Sotiris Nikoloutsopoulos, 18 yr. old
 
-###Public link:
+###Public link
 
-###Marks
+###Score
+* Form:
+* Function:
+* Interestingness: 
+
+Total:
+
+##3. Team: XXX
+
+###Members
+1. Vasileios Fatouros, 29 yr. old
+2. Ioannis Drosidis, 34 yr. old
+3. Panagiotis Leliopoulos, 29 yr. old
+
+###Public link
+
+###Score
 * Form:
 * Function:
 * Interestingness: 
