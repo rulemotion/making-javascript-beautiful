@@ -24,4 +24,26 @@ A collection of datasets to build upon. Created for the needs of "Making Javascr
 1. Dimitris Tsironis, 20 yr. old
 2. Jim Zarkadas, 19 yr. old
 
-###Public link: 
+###Public link:
+
+###Marks
+* Form:
+* Function:
+* Interestingness: 
+
+Total:
+
+##2. Team: The freaking amazing visualizers
+
+###Members
+1. Nikitas Christodoulakis, 16 yr. old
+2. Sotiris Nikoloutsopoulos, 18 yr. old
+
+###Public link:
+
+###Marks
+* Form:
+* Function:
+* Interestingness: 
+
+Total:
