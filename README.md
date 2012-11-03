@@ -32,11 +32,11 @@ So we created a vertical years timeline. As you click on it, data and charts cha
 http://visualisations.isnap.gr
 
 ###Score
-* Form:
-* Function:
-* Interestingness: 
+* Form: 2.5
+* Function: 4
+* Interestingness: 2.83 
 
-Total:
+Total: **9.33**
 
 ##2. Team: The freaking amazing visualizers
 
@@ -47,11 +47,11 @@ Total:
 ###Public link
 
 ###Score
-* Form:
-* Function:
-* Interestingness: 
+* Form: 0.5
+* Function: 0.5
+* Interestingness: 0.5 
 
-Total:
+Total: **1.5**
 
 ##3. Team: XXX
 
@@ -69,11 +69,11 @@ We did this with a pie chart and with simple line charts.
 http://www.synela.info/hachathon/
 
 ###Score
-* Form:
-* Function:
-* Interestingness: 
+* Form: 3.5
+* Function: 2.33
+* Interestingness: 2.5
 
-Total:
+Total: **8.33**
 
 ##4. Team: The knights of the square table
 
@@ -94,11 +94,11 @@ vivid web site. We wanted to inform the user in a friendly interface.
 http://jmike.gr/hackathon
 
 ###Score
-* Form:
-* Function:
-* Interestingness: 
+* Form: 1.5
+* Function: 1.83
+* Interestingness: 2.66 
 
-Total:
+Total: **6**
 
 ##5. Team: Logimus
 
@@ -116,11 +116,11 @@ As this requires extra time to complete properly, our solution is not fully fini
 http://dionyziz.logimus.com/beautiful/
 
 ###Score
-* Form:
-* Function:
-* Interestingness: 
+* Form: 4
+* Function: 3.16
+* Interestingness: 2.66 
 
-Total:
+Total: **9.83**
 
 ##6. Team: Sitting on the dinner table
 
@@ -135,8 +135,8 @@ We implemented a stacked chart using pure webgl. We interpolated the data by fil
 http://www.intrael.com/hackathon
 
 ###Score
-* Form:
-* Function:
-* Interestingness: 
+* Form: 3
+* Function: 2.5
+* Interestingness: 2.66 
 
-Total:
+Total: **8.16**
