@@ -91,6 +91,7 @@ The scope of this infographic was to make an interesting, eye-catching and
 vivid web site. We wanted to inform the user in a friendly interface.
 
 ###Public link
+http://jmike.gr/hackathon
 
 ###Score
 * Form:
