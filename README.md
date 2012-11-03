@@ -80,3 +80,20 @@ Total:
 * Interestingness: 
 
 Total:
+
+##5. Team: Logimus
+
+###Members
+1. Dionysis Zindros, 24 yr. old
+2. Kostis Karantias, 17 yr. old
+3. Themis Papameletiou, 17 yr. old
+
+###Public link
+http://dionyziz.logimus.com/beautiful/
+
+###Score
+* Form:
+* Function:
+* Interestingness: 
+
+Total:
