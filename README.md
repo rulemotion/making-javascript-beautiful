@@ -15,3 +15,13 @@ A collection of datasets to build upon. Created for the needs of "Making Javascr
 
 * Volume is in millions (1.000.000)
 * Phone share and smartphone share are both percentage numbers.
+
+# Teams
+
+##1. Team: geembo
+
+###Members
+1. Dimitris Tsironis, 20 yr. old
+2. Jim Zarkadas, 19 yr. old
+
+###Public link: 
